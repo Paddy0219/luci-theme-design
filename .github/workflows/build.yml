@@ -1,4 +1,4 @@
-name: Build-OpenWrt-EasyTier
+name: Build-luci-theme-design
 
 on:
   #push:
